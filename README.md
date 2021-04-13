@@ -10,14 +10,24 @@ _Data Center Operator (and sometimes still a Gamer) based in Tangerang, Indonesi
 An IT Based company who provide services, manages, and IT resources.
   - Monitored Internal & External project servers, network connections, utility, and corporate filters to maintain maximum up-time and functionality.
   - Developed and maintained strong client relationships to deliver exceptional customer service and problem resolution.
-  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+  - Responded to support requests from end users and patiently walked individuals through basic troubleshooting tasks.
+  - Analyzed Network and Utility issues to identify troubleshooting methods needed for quick remediation.
+  - Identified and solved technical issues using variety of diagnostic tools and tactics.
+  - Documented all transactions and support interactions in system for future reference and addition to knowledge base.
+  - Removed malware, ransomware and other threats from laptops and desktop systems.
+  - **_Technologies used:_** Putty, Mysql, AS400, T24, Symantec tape backup. 
 <br><br>
 
 **Data Center Operator** @ [PT Aristi Jasa Data](https://www.Aristijasadata.co.id) _(oct 2016 - jul 2020)_ <br>
 An IT Based company who provide services, manages, and IT resources.
   - Monitored Internal & External project servers, network connections, utility, and corporate filters to maintain maximum up-time and functionality.
   - Developed and maintained strong client relationships to deliver exceptional customer service and problem resolution.
-  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
+  - Responded to support requests from end users and patiently walked individuals through basic troubleshooting tasks.
+  - Analyzed Network and Utility issues to identify troubleshooting methods needed for quick remediation.
+  - Identified and solved technical issues using variety of diagnostic tools and tactics.
+  - Documented all transactions and support interactions in system for future reference and addition to knowledge base.
+  - Removed malware, ransomware and other threats from laptops and desktop systems.
+  - **_Technologies used:_** Putty, Mysql, AS400, T24, Symantec tape backup.
 <br><br>
 
 
